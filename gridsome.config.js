@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: "河河海的blog",
+  siteName: "河河海的博客",
   siteDescription: "记录自己的代码生活",
 
   templates: {

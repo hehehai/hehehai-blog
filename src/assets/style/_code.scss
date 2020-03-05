@@ -7,12 +7,19 @@ https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javasc
  */
 
 pre {
-  padding: calc(var(--space) / 2);
+  padding: calc(var(--space) / 3);
   font-size: 0.85em;
   background-color: var(--bg-code);
   margin-bottom: 2em;
   border: 1px solid var(--border-color);
   border-radius: var(--radius);
+
+  code {
+    display: block;
+    background-color: transparent;
+    border: 0;
+    padding: 0;
+  }
 }
 
 code {
