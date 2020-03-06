@@ -47,7 +47,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: "河河海的博客"
+    title: "🎯focusing"
   }
 };
 </script>
