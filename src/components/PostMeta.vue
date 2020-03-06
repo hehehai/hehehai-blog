@@ -2,7 +2,7 @@
   <div class="post-meta">
     <span class="time">{{ post.date }}</span>
     <template v-if="post.timeToRead">
-      <strong>{{ post.timeToRead }} 分钟前阅读</strong>
+      <strong>阅读时长 {{ post.timeToRead }}分钟</strong>
     </template>
   </div>
 </template>

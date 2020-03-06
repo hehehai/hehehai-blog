@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: "河河海的博客",
-  siteDescription: "记录自己的代码生活",
+  siteDescription: "我是一名前端开发程序员，博客主要记录自己的代码生活",
 
   templates: {
     Post: "/:title",

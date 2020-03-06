@@ -14,10 +14,11 @@
     </h1>
 
     <p class="author__intro">
-      我的代码生活
+      我是一名前端开发程序员，博客主要记录自己的代码生活
     </p>
 
     <p class="author__links">
+      <a href="//space.bilibili.com/77484205">BiLiBiLi</a>
       <a href="//github.com/hehehai">GitHub</a>
     </p>
   </div>
