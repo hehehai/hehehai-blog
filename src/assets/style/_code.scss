@@ -31,13 +31,14 @@ code {
 
 code[class*="language-"],
 pre[class*="language-"] {
-  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  font-family: "Lucida Console", Consolas, Monaco, "Andale Mono", "Ubuntu Mono",
+    monospace;
   text-align: left;
   white-space: pre;
   word-spacing: normal;
   word-break: normal;
   word-wrap: normal;
-  line-height: 1.6;
+  line-height: 2;
 
   -moz-tab-size: 4;
   -o-tab-size: 4;
